@@ -6,51 +6,41 @@
     <title>AR.js Example</title>
     <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
     <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
-    
   </head>
-  <body style="margin:0;" >
+  <body style="margin:0;">
     <a-scene embedded arjs>
       <a-marker type="pattern" url="./marker/mcq.patt">
-        <!-- Create a box -->
-      <a-entity
+        <a-entity
           gltf-model="https://tekajone-ar.vercel.app/mcq/scene.gltf"
           scale="1 1 1"
           position="0 0.5 0"
-          rotation="0 0 0"
-        >
+          rotation="0 0 0">
         </a-entity>
       </a-marker>
       <a-marker type="pattern" url="./marker/tl.patt">
-        <!-- Create a box -->
-      <a-entity
+        <a-entity
           gltf-model="https://tekajone-ar.vercel.app/timLockwood/scene.gltf"
           scale="1 1 1"
           position="0 0.5 0"
-          rotation="0 0 0"
-        >
+          rotation="0 0 0">
         </a-entity>
       </a-marker>
       <a-marker preset="hiro">
-        <!-- Create a box -->
-      <a-entity
+        <a-entity
           gltf-model="https://tekajone-ar.vercel.app/mercedes/scene.gltf"
           scale="1 1 1"
           position="0 0.5 0"
-          rotation="0 0 0"
-        >
+          rotation="0 0 0">
         </a-entity>
       </a-marker>
       <a-marker preset="kanji">
-        <!-- Create a box -->
-      <a-entity
+        <a-entity
           gltf-model="https://tekajone-ar.vercel.app/psp/scene.gltf"
           scale="1 1 1"
           position="0 0.5 0"
-          rotation="0 90 270"
-        >
+          rotation="0 90 270">
         </a-entity>
       </a-marker>
-      <!-- Define a camera -->
       <a-entity camera></a-entity>
     </a-scene>
   </body>
