@@ -8,13 +8,12 @@
     <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
     
   </head>
-  <body style="margin:0;overflow:hidden;">
-    <a-scene embedded arjs="detectionMode:mono_and_matrix;">
-      <!-- Define a marker with "hiro" preset -->
+  <body style="margin:0;" >
+    <a-scene embedded arjs>
       <a-marker type="pattern" url="./marker/mcq.patt">
         <!-- Create a box -->
       <a-entity
-          gltf-model="url(https://tekajeone-ar.vercel.app/mcq/scene.gltf)"
+          gltf-model="url(https://tekajone-ar.vercel.app/mcq/scene.gltf)"
           scale="1 1 1"
           position="0 0.5 0"
           rotation="0 0 0"
@@ -24,7 +23,7 @@
       <a-marker type="pattern" url="./marker/tl.patt">
         <!-- Create a box -->
       <a-entity
-          gltf-model="url(https://tekajeone-ar.vercel.app/timLockwood/scene.gltf)"
+          gltf-model="url(https://tekajone-ar.vercel.app/shark/scene.gltf)"
           scale="1 1 1"
           position="0 0.5 0"
           rotation="0 0 0"
@@ -34,7 +33,7 @@
       <a-marker preset="hiro">
         <!-- Create a box -->
       <a-entity
-          gltf-model="url(https://tekajeone-ar.vercel.app/shark/scene.gltf)"
+          gltf-model="url(https://tekajone-ar.vercel.app/shark/scene.gltf)"
           scale="1 1 1"
           position="0 0.5 0"
           rotation="0 0 0"
@@ -44,7 +43,7 @@
       <a-marker preset="kanji">
         <!-- Create a box -->
       <a-entity
-          gltf-model="url(https://tekajeone-ar.vercel.app/psp/scene.gltf)"
+          gltf-model="url(https://tekajone-ar.vercel.app/psp/scene.gltf)"
           scale="1 1 1"
           position="0 0.5 0"
           rotation="0 90 270"
