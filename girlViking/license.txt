@@ -1,0 +1,11 @@
+Model Information:
+* title:	Norn Cultural Armor Test
+* source:	https://sketchfab.com/3d-models/norn-cultural-armor-test-7f3fced661e346e6a0ecfbd4cb710e2a
+* author:	Nate (https://sketchfab.com/naet)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Norn Cultural Armor Test" (https://sketchfab.com/3d-models/norn-cultural-armor-test-7f3fced661e346e6a0ecfbd4cb710e2a) by Nate (https://sketchfab.com/naet) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	2009 BMW M5 E60
+* source:	https://sketchfab.com/3d-models/2009-bmw-m5-e60-28aa87ceb8ef4855a384a402fb1661cf
+* author:	RBLXSupercars (https://sketchfab.com/RBLXSupercars)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2009 BMW M5 E60" (https://sketchfab.com/3d-models/2009-bmw-m5-e60-28aa87ceb8ef4855a384a402fb1661cf) by RBLXSupercars (https://sketchfab.com/RBLXSupercars) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
